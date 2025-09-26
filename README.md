@@ -7,16 +7,19 @@ This dashboard provides a comprehensive overview of Sales Orders (SO) and Transf
 # Dashboard Pages
 ## 1. Dashboard Overview Page
 This page provides a summary of total Sales Orders (SO) and Transfer Orders (TO) by supply site, along with order status details and Service Level Agreement (SLA) monitoring.
-<img width="880" alt="SCM Dashboard Page 1 (Power BI)" src="https://github.com/user-attachments/assets/4eb8b915-6bb2-4705-9710-fcbad84f4947" />
+<img width="880" alt="SCM Dashboard Page 1 (Power BI)" src="https://github.com/user-attachments/assets/8a2d8667-361a-49a7-8db0-43aec507063b" />
+
 
 ## 2. Leaderboard Page
 This page highlights SO and TO performance by SCM team members, showing order status tracking and SLA comparisons by creator.
-<img width="880" alt="SCM Dashboard Page 2 (Power BI)" src="https://github.com/user-attachments/assets/751afef3-15e2-4b38-a059-1ff0917597e3" />
+<img width="880" alt="SCM Dashboard Page 2 (Power BI)" src="https://github.com/user-attachments/assets/465ec75a-b840-4731-a6cd-09e5ee33f8d2" />
+
 
 ## 3. SCM Shipment Efficiency Page
 This page analyzes the efficiency of shipments, comparing delivery distance with nearest plant gaps and offering insights for route optimization and performance.
 
-<img width="880" alt="SCM Dashboard Page 3 (Power BI)" src="https://github.com/user-attachments/assets/235b59b9-d747-4b2d-9f51-939fa6fb2323" />
+<img width="880" alt="SCM Dashboard Page 3 (Power BI)" src="https://github.com/user-attachments/assets/d1fed5bb-cf38-469d-b4d3-120f534d27bb" />
+
 
 
 # Features
